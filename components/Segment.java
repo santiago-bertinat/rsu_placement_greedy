@@ -9,7 +9,7 @@ public class Segment implements Comparable<Segment> {
   public Point start;
   public Point end;
   public int vehicles_amount;
-  public int speed;
+  public double speed;
   public double qos_potenciality;
   public Rsu rsu;
 
